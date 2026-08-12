@@ -1,0 +1,6 @@
+{
+  "name": "SocialCraft AI",
+  "description": "Cross-platform social media content and custom visual generator tailored for LinkedIn, Twitter/X, and Instagram with customizable tones, aspect ratios, and resolutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
